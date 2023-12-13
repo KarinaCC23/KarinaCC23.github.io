@@ -1,0 +1,32 @@
+.nav_bar {
+    border-bottom: 1px solid black;
+}
+
+.nav_bar a {
+    font-size: 24px;
+    text-decoration: none;
+}
+
+#title_name {
+    font-size: 3.5rem;
+}
+
+.homepage_project_image {
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+    background-color: #000000;
+}
+.project_card_name  {
+    text-align: center;
+    width: 150px;
+}
+
+.project_card_about {
+    text-align: center;
+    width: 150px;
+}
+
+.project_page_description {
+    margin-top: 1%;
+}
